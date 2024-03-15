@@ -31,3 +31,14 @@ yarn format
 # or
 npm run format
 ```
+
+### Build the app for production
+
+```bash
+npm run  build
+```
+
+### Format the user
+
+Email:- vjain7597@gmail.com
+Password:- password
